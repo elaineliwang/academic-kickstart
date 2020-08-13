@@ -15,7 +15,7 @@ role: Ph.D in Mathematics
 # Organizations/Affiliations
 organizations:
 - name: University of British Columbia
-  url: ""
+  url: "https://www.math.ubc.ca"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'lwang@math.ubc.ca'  # For a direct email link, use "mailto:test@example.org".
+  link: "lwang@math.ubc.ca"  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
