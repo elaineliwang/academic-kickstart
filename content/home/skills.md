@@ -27,9 +27,9 @@ subtitle = ""
   #description = "100%"  
   
 [[feature]]
-  #icon = "camera-retro"
-  #icon_pack = "fas"
-  #name = "Photography"
+  icon = ""
+  icon_pack = "fas"
+  name = "matlab"
   #description = "10%"
 
 # Uncomment to use emoji icons.
