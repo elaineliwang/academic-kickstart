@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "lwang@math.ubc.ca"  # For a direct email link, use "mailto:test@example.org".
+  link: "#lwang@math.ubc.ca"  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Li Wang a math PhD student at University of British Columbia. Her research interests are partial differential equations, and mathematical physics. 
+Li Wang is a math PhD student at University of British Columbia. Her research interests are partial differential equations, and mathematical physics. 
