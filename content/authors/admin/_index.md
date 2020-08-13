@@ -23,7 +23,7 @@ organizations:
 interests:
 - Partial Differential Equations
 - Mathematical Physics
-
+- Optimization
 
 education:
   courses:
