@@ -38,6 +38,12 @@ subtitle = ""
   name = "matlab"
   #description = "10%"
 
+[[feature]]
+  icon = "SQL"
+  icon_pack = "fas"
+  name = "matlab"
+  #description = "10%"
+
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
