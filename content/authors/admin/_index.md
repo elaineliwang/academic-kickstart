@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "#lwang@math.ubc.ca"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:lwang@math.ubc.ca"  # For a direct email link, use "mailto:your-email@example.com".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
