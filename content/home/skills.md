@@ -41,7 +41,7 @@ subtitle = ""
 [[feature]]
   icon = "SQL"
   icon_pack = "fas"
-  name = "matlab"
+  name = "SQL"
   #description = "10%"
 
 # Uncomment to use emoji icons.
