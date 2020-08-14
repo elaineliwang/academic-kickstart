@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
@@ -18,27 +18,27 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "PhD student in Mathematics"
+  company = "UBC"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Vancouver"
+  date_start = "2014-09-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Rigorously analyzed the eneretic and dynamical stability phenomenon observed in physics using various kinds of mathematical analysis
+  * Proved the existence and properties of chiral skyrmions(a topological soliton arising from micromagnetics)
+  # * Deploying
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Instructor"
+  company = "University of British Columbia"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Vancouver"
+  date_start = "2017-09-01"
+  date_end = "2017-12-31"
+  description = """Taught first year calculus class"""
 
 +++
