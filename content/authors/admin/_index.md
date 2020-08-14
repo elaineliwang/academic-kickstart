@@ -14,7 +14,7 @@ role: Ph.D in Mathematics
 
 # Organizations/Affiliations
 organizations:
-- name: University of British Columbia
+- name: The University of British Columbia
   url: "https://www.math.ubc.ca"
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: PhD in Mathematics
-    institution: University of British Columbia
+    institution: The University of British Columbia
     year: 
   - course: MS in Applied Mathematics
     institution: University of Washington
