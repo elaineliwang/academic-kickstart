@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   
   * Rigorously analyzed the eneretic and dynamical stability phenomenon observed in physics using various kinds of mathematical analysis
   * Proved the existence and properties of chiral skyrmions(a topological soliton arising from micromagnetics)
-  # * Deploying
+# * Deploying
   """
 
 [[experience]]
