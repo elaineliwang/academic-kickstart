@@ -38,6 +38,6 @@ date_format = "Jan 2006"
   location = "Vancouver"
   date_start = "2017-09-01"
   date_end = "2017-12-31"
-  description = """Taught first year calculus class"""
+  description = """Taught MATH 184 Differential Calculus for Social Science and Commerce class"""
 
 +++
